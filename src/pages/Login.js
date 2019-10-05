@@ -57,7 +57,7 @@ export default function Login({ navigation }) {
         />
 
         <TouchableOpacity onPress={handleSubmit} style={styles.button}>
-          <Text style={styles.buttonText}>Encontrar Spots 2</Text>
+          <Text style={styles.buttonText}>Encontrar Spots</Text>
         </TouchableOpacity>
       </View>
     </KeyboardAvoidingView>
